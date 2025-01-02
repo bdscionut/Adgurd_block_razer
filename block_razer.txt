@@ -1,0 +1,17 @@
+# Lista personalizată pentru blocarea accesului Razer Synapse și Razer Central
+# Domenii și subdomenii cunoscute utilizate de Razer
+
+0.0.0.0 razer.com
+0.0.0.0 www.razer.com
+0.0.0.0 synapse.razer.com
+0.0.0.0 updates.razer.com
+0.0.0.0 api.razer.com
+0.0.0.0 central.razer.com
+0.0.0.0 driver.razer.com
+0.0.0.0 cloud.razer.com
+0.0.0.0 rewards.razer.com
+0.0.0.0 wpad.razerzone.com
+0.0.0.0 dl.razerzone.com
+0.0.0.0 logs.razer.com
+0.0.0.0 oculus.razerzone.com
+0.0.0.0 assets.razerzone.com
